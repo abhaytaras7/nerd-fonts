@@ -7,5 +7,5 @@
 
 
 
-If you think you can add something new then do it , I'm too lazy to make contribution guide and COC/
+If you think you can add something new then do it , I'm too lazy to make contribution guide and COC 🫰🏻
 
