@@ -2,7 +2,7 @@
 
 
 
-![](https://tenor.com/view/cat-laptop-gif-9670622)
+![](https://media.tenor.com/cctV9EvJdAoAAAAC/cat-laptop.gif)
 ### To install just clone , and move the ttf && otfs to respective font directory :)
 
 
